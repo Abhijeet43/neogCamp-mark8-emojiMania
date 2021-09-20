@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  padding: 1rem;
+  margin: 1rem;
+  width: 80%;
+  font-size: larger;
+  border-radius: 2rem;
+  border-color: black;
+}
+
+input:focus {
+  outline: none;
+}
